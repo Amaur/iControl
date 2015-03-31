@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.username.icontrol",
+    "description": "description of iControl",
+    "framework": "ubuntu-sdk-14.04-qml",
+    "architecture": "all",
+    "title": "iControl",
+    "hooks": {
+        "iControl": {
+            "apparmor": "iControl.json",
+            "desktop": "iControl.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": ""
+}

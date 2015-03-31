@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=iControl
+Exec=/usr/bin/qmlscene $@ /usr/share/iControl/iControl.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
